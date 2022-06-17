@@ -1,4 +1,4 @@
-# <Head_Pose_Estimation>
+# Head_Pose_Estimation
 
 ## Description
 In this project, we will predict 3 angles (pitch, yaw and roll) of the head pose using 3 different models
