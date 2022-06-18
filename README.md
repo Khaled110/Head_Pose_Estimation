@@ -11,8 +11,8 @@ Applying our models to predict the 3 angles of frames of videos.
 ![head](3CQsnT_ad6337d97eaa56bd6410aa9153e82318_00-00-00_00-00-11_2.gif)
 
 ## Notebook Steps:
--Installing Mediapipe Package
--Downloading Data & Extracting Files
+> Installing Mediapipe Package
+> Text that is a quote-Downloading Data & Extracting Files
 -Preprocessing On Data
 -Splitting data for training and validation.
 -Applying Gridsearch
