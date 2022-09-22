@@ -35,7 +35,7 @@
 - Trying different models for each angle, applying Gridsearch, and select the best Model,which was `Support Vector Regressor (SVR) Model`, then Applying our 3 models to predict the 3 angles of frames of videos.
 
 ## Model Evaluation
-- Metric used: `Root Mean Square Error (MAE)` and `Mean Aboslute Error (MAE)` .
+- Metric used: `Root Mean Square Error (RMSE)` and `Mean Aboslute Error (MAE)` .
 For our 3 models MAE was as following:
 - Yaw Angle Model:
   - RMSE: `0.19865662883247995`
