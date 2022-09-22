@@ -32,7 +32,7 @@
 - Pandas
 
 ## Modeling
-- Trying different models for each angle, applying Gridsearch, and select the best Model,which was `Support Vector Regressor (SVR) Model)`, then Applying our 3 models to predict the 3 angles of frames of videos.
+- Trying different models for each angle, applying Gridsearch, and select the best Model,which was `Support Vector Regressor (SVR) Model`, then Applying our 3 models to predict the 3 angles of frames of videos.
 
 ## Model Evaluation
 - Metric used: `Root Mean Square Error (MAE)` and `Mean Aboslute Error (MAE)` .
